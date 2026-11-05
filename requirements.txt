@@ -1,0 +1,12 @@
+# Tested setup: Python 3.10-3.12, PyTorch 2.x with CUDA, DGL matching the PyTorch/CUDA version.
+# Install PyTorch and DGL first, following https://pytorch.org and https://www.dgl.ai/pages/start.html
+torch>=2.0
+dgl>=1.1
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+tqdm
+huggingface_hub
+jupyter

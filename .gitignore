@@ -1,0 +1,7 @@
+data/
+results/*.json
+results/*.tmp
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+*Zone.Identifier
